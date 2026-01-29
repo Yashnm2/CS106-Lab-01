@@ -8,7 +8,7 @@
  */
 int minusOne(void)
 {
-    return 2;
+    return (signed int) 0xFFFFFFFF;
 }
 
 int test_minusOne(void)
